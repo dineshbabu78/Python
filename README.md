@@ -1,2 +1,2 @@
 # Python
-jkgkjvjkvv
+finding maximum and minimum number
